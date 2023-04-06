@@ -1,1 +1,1 @@
-Exercícios, conceitos de Algoritmo na linguagem Phyton.
+Exercícios e conceitos de Algoritmo na linguagem Phyton.
