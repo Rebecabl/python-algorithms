@@ -1,1 +1,1 @@
-Exercícios e conceitos de Algoritmo na linguagem Phyton.
+Algorithm exercises and concepts in the Python programming language.
